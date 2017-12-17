@@ -2,7 +2,7 @@
 Frontend master Path
 
 
-* Progressive Web Applications and Offline
+* Progressive Web Applications and Offline - [16-12-17]
 * React Native (feat. Redux)
 * Complete Intro to React, v3 (feat. Redux, Router & Flow)
 * Testing JavaScript Applications (feat. React and Redux)
