@@ -1,7 +1,7 @@
 # Frontend Master Path
 Frontend master Path
 
-* Zero to Production Node.js on Amazon Web Services
+* Zero to Production Node.js on Amazon Web Services - [19-12-17]
 * Progressive Web Applications and Offline - [16-12-17]
 * React Native (feat. Redux)
 * Complete Intro to React, v3 (feat. Redux, Router & Flow)
