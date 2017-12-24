@@ -2,6 +2,7 @@
 Frontend master Path
 
 
+* Webpack 2 Deep Dive
 * Firebase + React: Real-time, Serverless Web Apps - [21-12-17]
 * Zero to Production Node.js on Amazon Web Services - [19-12-17]
 * Progressive Web Applications and Offline - [16-12-17]
