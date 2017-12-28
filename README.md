@@ -1,6 +1,7 @@
 # Frontend Master Path
 Frontend master Path
 
+* Secure Authentication for Web Apps & APIs Using JWTs
 * Introduction to Data Visualization with d3.js v4 [26-12-17]
 * Webpack 2 Deep Dive - [24-12-17]
 * Firebase + React: Real-time, Serverless Web Apps - [21-12-17]
