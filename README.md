@@ -2,7 +2,7 @@
 Frontend master Path
 
 * Introduction to Vue.js
-* Secure Authentication for Web Apps & APIs Using JWTs
+* Secure Authentication for Web Apps & APIs Using JWTs [28-12-17]
 * Introduction to Data Visualization with d3.js v4 [26-12-17]
 * Webpack 2 Deep Dive - [24-12-17]
 * Firebase + React: Real-time, Serverless Web Apps - [21-12-17]
