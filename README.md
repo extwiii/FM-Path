@@ -1,7 +1,7 @@
 # Frontend Master Path
 Frontend master Path
 
-* Introduction to Vue.js
+* Introduction to Vue.js [30-12-17]
 * Secure Authentication for Web Apps & APIs Using JWTs [28-12-17]
 * Introduction to Data Visualization with d3.js v4 [26-12-17]
 * Webpack 2 Deep Dive - [24-12-17]
