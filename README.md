@@ -10,6 +10,8 @@ Frontend master Path
 * Firebase + React: Real-time, Serverless Web Apps - [21-12-17]
 * Zero to Production Node.js on Amazon Web Services - [19-12-17]
 * Progressive Web Applications and Offline - [16-12-17]
+* [API Design in Node v2 - [9-12-17]](https://frontendmasters.com/workshops/api-design-in-node-v2/)
+  * [Github](https://github.com/FrontendMasters/api-design-node-v2)
 * [React Native (feat. Redux) - [01-12-17]](https://frontendmasters.com/courses/react-native/)
   * [Github](https://github.com/FrontendMasters/sweat-book)
   * [Slides](https://docs.google.com/presentation/d/18gCaTdcF9Hd7RPtVYdF8y52pPyLL3dwR5odxWLpZAkQ)
