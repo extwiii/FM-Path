@@ -12,7 +12,9 @@ Frontend master Path
 * Progressive Web Applications and Offline - [16-12-17]
 * React Native (feat. Redux)
 * Complete Intro to React, v3 (feat. Redux, Router & Flow)
-* Testing JavaScript Applications (feat. React and Redux)
+* [Testing JavaScript Applications (feat. React and Redux) - [17-11-17]](https://frontendmasters.com/courses/testing-javascript/)
+  * [Github](https://github.com/kentcdodds/testing-workshop)
+  * [Slides](http://slides.com/kentcdodds/testing-workshop)
 
 
 ### Created By Bilal Cagiran | [E-Mail](mailto:bcagiran@hotmail.com) | [Github](https://github.com/extwiii/) | [LinkedIn](https://linkedin.com/in/bilalcagiran) | [CodePen](http://codepen.io/extwiii/) | [Blog/Site](http://bilalcagiran.com) | [FreeCodeCamp](https://www.freecodecamp.com/extwiii) 
