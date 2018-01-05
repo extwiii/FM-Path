@@ -9,7 +9,9 @@ Frontend master Path
 * Webpack 2 Deep Dive - [24-12-17]
 * Firebase + React: Real-time, Serverless Web Apps - [21-12-17]
 * Zero to Production Node.js on Amazon Web Services - [19-12-17]
-* Progressive Web Applications and Offline - [16-12-17]
+* [Progressive Web Applications and Offline - [16-12-17]](https://frontendmasters.com/courses/progressive-web-apps/)
+  * [Github](https://github.com/mike-works/pwa-fundamentals)
+  * [Slides](https://drive.google.com/file/d/0B7LIdu29tPZRODE0SXpRMVVKYzA/view)
 * [API Design in Node v2 - [9-12-17]](https://frontendmasters.com/workshops/api-design-in-node-v2/)
   * [Github](https://github.com/FrontendMasters/api-design-node-v2)
 * [React Native (feat. Redux) - [01-12-17]](https://frontendmasters.com/courses/react-native/)
