@@ -1,7 +1,8 @@
 # Frontend Master Path
 Frontend master Path
 
-* Functional-Light JavaScript, v2
+* Debugging and Fixing Common JavaScript Errors
+* Functional-Light JavaScript, v2 [2-1-18]
 * Introduction to Vue.js [30-12-17]
 * Secure Authentication for Web Apps & APIs Using JWTs [28-12-17]
 * Introduction to Data Visualization with d3.js v4 [26-12-17]
