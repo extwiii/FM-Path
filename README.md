@@ -11,7 +11,10 @@ Frontend master Path
 * Zero to Production Node.js on Amazon Web Services - [19-12-17]
 * Progressive Web Applications and Offline - [16-12-17]
 * React Native (feat. Redux)
-* Complete Intro to React, v3 (feat. Redux, Router & Flow)
+* [Complete Intro to React, v3 (feat. Redux, Router & Flow) - [23-11-17]](https://frontendmasters.com/courses/react/)
+  * [Github](https://github.com/btholt/complete-intro-to-react)
+  * [Notes](http://btholt.github.io/complete-intro-to-react/)
+  * [My Project](https://github.com/extwiii/SVideo)
 * [Testing JavaScript Applications (feat. React and Redux) - [17-11-17]](https://frontendmasters.com/courses/testing-javascript/)
   * [Github](https://github.com/kentcdodds/testing-workshop)
   * [Slides](http://slides.com/kentcdodds/testing-workshop)
