@@ -5,7 +5,9 @@ Frontend master Path
 * Debugging and Fixing Common JavaScript Errors [4-1-18]
 * Functional-Light JavaScript, v2 [2-1-18]
 * [Introduction to Vue.js [30-12-17]]()
-* [Secure Authentication for Web Apps & APIs Using JWTs [28-12-17]]()
+* [Secure Authentication for Web Apps & APIs Using JWTs [28-12-17]](https://frontendmasters.com/courses/secure-auth-jwt/)
+  * [Github](https://github.com/chenkie/react-user-authentication)
+  * [Slides](https://frontendmasters.com/assets/resources/ryanchenkie/secure-auth.pdf)
 * [Introduction to Data Visualization with d3.js v4 [26-12-17]](https://frontendmasters.com/courses/d3-v4/)
   * [Slides](http://slides.com/shirleywu/fm-d3intro#/)
 * [Webpack 2 Deep Dive - [24-12-17]](https://frontendmasters.com/courses/webpack/)
