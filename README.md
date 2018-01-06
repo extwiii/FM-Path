@@ -5,7 +5,8 @@ Frontend master Path
 * Functional-Light JavaScript, v2 [2-1-18]
 * [Introduction to Vue.js [30-12-17]]()
 * [Secure Authentication for Web Apps & APIs Using JWTs [28-12-17]]()
-* [Introduction to Data Visualization with d3.js v4 [26-12-17]]()
+* [Introduction to Data Visualization with d3.js v4 [26-12-17]](https://frontendmasters.com/courses/d3-v4/)
+  * [Slides](http://slides.com/shirleywu/fm-d3intro#/)
 * [Webpack 2 Deep Dive - [24-12-17]](https://frontendmasters.com/courses/webpack/)
   * [Gist](https://gist.github.com/1Marc/7c7fad88cfd9bf24389f965dc93a1b22)
   * [Github](https://github.com/kentcdodds/es6-todomvc)
