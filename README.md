@@ -3,12 +3,14 @@ Frontend master Path
 
 * Debugging and Fixing Common JavaScript Errors
 * Functional-Light JavaScript, v2 [2-1-18]
-* Introduction to Vue.js [30-12-17]
-* Secure Authentication for Web Apps & APIs Using JWTs [28-12-17]
-* Introduction to Data Visualization with d3.js v4 [26-12-17]
-* Webpack 2 Deep Dive - [24-12-17]
-* Firebase + React: Real-time, Serverless Web Apps - [21-12-17]
-* Zero to Production Node.js on Amazon Web Services - [19-12-17]
+* [Introduction to Vue.js [30-12-17]]()
+* [Secure Authentication for Web Apps & APIs Using JWTs [28-12-17]]()
+* [Introduction to Data Visualization with d3.js v4 [26-12-17]]()
+* [Webpack 2 Deep Dive - [24-12-17]]()
+* [Firebase + React: Real-time, Serverless Web Apps - [21-12-17]]()
+* [Zero to Production Node.js on Amazon Web Services - [19-12-17]](https://frontendmasters.com/courses/production-node-aws/)
+  * [Github](https://github.com/kwhinnery/todomvc-plusplus)
+  * [Slides](https://github.com/kwhinnery/todomvc-plusplus/blob/master/zerotoprod.pdf)
 * [Progressive Web Applications and Offline - [16-12-17]](https://frontendmasters.com/courses/progressive-web-apps/)
   * [Github](https://github.com/mike-works/pwa-fundamentals)
   * [Slides](https://drive.google.com/file/d/0B7LIdu29tPZRODE0SXpRMVVKYzA/view)
