@@ -1,7 +1,8 @@
 # Frontend Master Path
 Frontend master Path
 
-* Debugging and Fixing Common JavaScript Errors
+* Build Cross-Platform Desktop Apps with Electron
+* Debugging and Fixing Common JavaScript Errors [4-1-18]
 * Functional-Light JavaScript, v2 [2-1-18]
 * [Introduction to Vue.js [30-12-17]]()
 * [Secure Authentication for Web Apps & APIs Using JWTs [28-12-17]]()
