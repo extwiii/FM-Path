@@ -4,7 +4,8 @@ Frontend master Path
 * Full Stack for Front End Engineers - [7-1-18]
 * Build Cross-Platform Desktop Apps with Electron - [6-1-18]
 * Debugging and Fixing Common JavaScript Errors - [4-1-18]
-* Functional-Light JavaScript, v2 - [2-1-18]
+* [Functional-Light JavaScript, v2 - [2-1-18]](https://frontendmasters.com/courses/functional-javascript-v2/)
+  * [Github](https://github.com/getify/Functional-Light-JS)
 * [Introduction to Vue.js - [30-12-17]](https://frontendmasters.com/courses/vue/)
   * [Github](https://github.com/sdras/intro-to-vue)
 * [Secure Authentication for Web Apps & APIs Using JWTs - [28-12-17]](https://frontendmasters.com/courses/secure-auth-jwt/)
