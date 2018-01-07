@@ -1,6 +1,7 @@
 # Frontend Master Path
 Frontend master Path
 
+* Full Stack for Front End Engineers - [7-1-18]
 * Build Cross-Platform Desktop Apps with Electron - [6-1-18]
 * Debugging and Fixing Common JavaScript Errors - [4-1-18]
 * Functional-Light JavaScript, v2 - [2-1-18]
