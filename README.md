@@ -1,6 +1,7 @@
 # Frontend Master Path
 Frontend master Path
 
+* Modern Search Engine Optimization (SEO)
 * Full Stack for Front End Engineers - [7-1-18]
 * Build Cross-Platform Desktop Apps with Electron - [6-1-18]
 * Debugging and Fixing Common JavaScript Errors - [4-1-18]
