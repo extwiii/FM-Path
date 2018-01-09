@@ -1,6 +1,7 @@
 # Frontend Master Path
 Frontend master Path
 
+* ES6: The Right Parts
 * Modern Search Engine Optimization (SEO) - [8-1-18]
 * Full Stack for Front End Engineers - [7-1-18]
 * Build Cross-Platform Desktop Apps with Electron - [6-1-18]
