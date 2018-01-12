@@ -1,7 +1,7 @@
 # Frontend Master Path
 Frontend master Path
 
-* Advanced SVG Animation
+* Advanced SVG Animation - [12-1-18]
 * ES6: The Right Parts - [10-1-18]
 * Modern Search Engine Optimization (SEO) - [8-1-18]
 * Full Stack for Front End Engineers - [7-1-18]
