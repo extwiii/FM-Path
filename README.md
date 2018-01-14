@@ -4,7 +4,7 @@ Frontend master Path
 * Four Semesters of Computer Science in 5 Hours - [14-1-18]
 * Advanced SVG Animation - [12-1-18]
 * ES6: The Right Parts - [10-1-18]
-* Modern Search Engine Optimization (SEO) - [8-1-18]
+* [Modern Search Engine Optimization (SEO) - [8-1-18]](https://frontendmasters.com/courses/modern-seo/)
 * [Full Stack for Front End Engineers - [7-1-18]](https://frontendmasters.com/courses/full-stack/)
   * [Slides](https://docs.google.com/presentation/d/1FPpbZ919vt8e1k2EGPd7BKhDlHao79ykvYLfDcMOsMo/edit#slide=id.p)
 * [Build Cross-Platform Desktop Apps with Electron - [6-1-18]](https://frontendmasters.com/courses/electron/)
