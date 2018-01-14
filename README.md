@@ -6,10 +6,11 @@ Frontend master Path
 * ES6: The Right Parts - [10-1-18]
 * Modern Search Engine Optimization (SEO) - [8-1-18]
 * Full Stack for Front End Engineers - [7-1-18]
-* Build Cross-Platform Desktop Apps with Electron - [6-1-18]
+* [Build Cross-Platform Desktop Apps with Electron - [6-1-18]](https://frontendmasters.com/courses/electron/)
+  * [Gist](https://gist.github.com/stevekinney/4cc5c61e827c00dbea55409f26d1da02)
 * [Debugging and Fixing Common JavaScript Errors - [4-1-18]](https://frontendmasters.com/courses/debugging-javascript/)
   * [Github](https://github.com/toddhgardner/getRANTR)
-  * [Track.js](https://trackjs.com/?utm_source=frontendmasters)
+  * [Track.js](https://trackjs.com)
 * [Functional-Light JavaScript, v2 - [2-1-18]](https://frontendmasters.com/courses/functional-javascript-v2/)
   * [Github](https://github.com/getify/Functional-Light-JS)
 * [Introduction to Vue.js - [30-12-17]](https://frontendmasters.com/courses/vue/)
