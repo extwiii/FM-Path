@@ -7,7 +7,9 @@ Frontend master Path
 * Modern Search Engine Optimization (SEO) - [8-1-18]
 * Full Stack for Front End Engineers - [7-1-18]
 * Build Cross-Platform Desktop Apps with Electron - [6-1-18]
-* Debugging and Fixing Common JavaScript Errors - [4-1-18]
+* [Debugging and Fixing Common JavaScript Errors - [4-1-18]](https://frontendmasters.com/courses/debugging-javascript/)
+  * [Github](https://github.com/toddhgardner/getRANTR)
+  * [Track.js](https://trackjs.com/?utm_source=frontendmasters)
 * [Functional-Light JavaScript, v2 - [2-1-18]](https://frontendmasters.com/courses/functional-javascript-v2/)
   * [Github](https://github.com/getify/Functional-Light-JS)
 * [Introduction to Vue.js - [30-12-17]](https://frontendmasters.com/courses/vue/)
