@@ -5,7 +5,8 @@ Frontend master Path
 * Advanced SVG Animation - [12-1-18]
 * ES6: The Right Parts - [10-1-18]
 * Modern Search Engine Optimization (SEO) - [8-1-18]
-* Full Stack for Front End Engineers - [7-1-18]
+* [Full Stack for Front End Engineers - [7-1-18]](https://frontendmasters.com/courses/full-stack/)
+  * [Slides](https://docs.google.com/presentation/d/1FPpbZ919vt8e1k2EGPd7BKhDlHao79ykvYLfDcMOsMo/edit#slide=id.p)
 * [Build Cross-Platform Desktop Apps with Electron - [6-1-18]](https://frontendmasters.com/courses/electron/)
   * [Gist](https://gist.github.com/stevekinney/4cc5c61e827c00dbea55409f26d1da02)
 * [Debugging and Fixing Common JavaScript Errors - [4-1-18]](https://frontendmasters.com/courses/debugging-javascript/)
