@@ -1,7 +1,7 @@
 # Frontend Master Path
 Frontend master Path
 
-* Advanced State Management in React (feat. Redux and MobX)
+* Advanced State Management in React (feat. Redux and MobX) - [16-1-18]
 * Four Semesters of Computer Science in 5 Hours - [14-1-18]
 * Advanced SVG Animation - [12-1-18]
 * ES6: The Right Parts - [10-1-18]
