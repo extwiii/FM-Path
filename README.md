@@ -5,7 +5,7 @@ Frontend master Path
 * Advanced State Management in React (feat. Redux and MobX) - [16-1-18]
 * Four Semesters of Computer Science in 5 Hours - [14-1-18]
 * Advanced SVG Animation - [12-1-18]
-* ES6: The Right Parts - [10-1-18]
+* [ES6: The Right Parts - [10-1-18]](https://frontendmasters.com/courses/es6-right-parts/)
 * [Modern Search Engine Optimization (SEO) - [8-1-18]](https://frontendmasters.com/courses/modern-seo/)
   * [Github](https://github.com/mike-works/modern-seo)
   * [Slides](https://drive.google.com/file/d/0B7LIdu29tPZRU3h2YVJNajlWNGc/view)
