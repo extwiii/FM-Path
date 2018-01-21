@@ -2,6 +2,7 @@
 Frontend master Path
 
 * Git In-depth
+  * [Github](https://github.com/nnja/advanced-git)
 * Full Stack for Front-Ends Part 2 - [20-1-18]
   * [Slides](https://docs.google.com/presentation/d/17Iy_MMPTUI0lldjz0AkhDIiVGh_CnXMfKO3ESmCnuyo/edit#slide=id.p)
 * Advanced State Management in React (feat. Redux and MobX) - [16-1-18]
