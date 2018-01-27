@@ -1,7 +1,7 @@
 # Frontend Master Path
 Frontend master Path
 
-* CSS Grids and Flexbox in Responsive Web Design [26-1-18]
+* [CSS Grids and Flexbox in Responsive Web Design [26-1-18]](https://frontendmasters.com/workshops/responsive-web-design-flexbox-css-grid/)
 * [Git In-depth [24-1-18]](https://frontendmasters.com/workshops/git-indepth/)
   * [Github](https://github.com/nnja/advanced-git)
 * [Full Stack for Front-Ends Part 2 - [20-1-18]](https://frontendmasters.com/workshops/full-stack-front-ends-part-2/)
