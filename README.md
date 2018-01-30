@@ -3,6 +3,7 @@ Frontend master Path
 
 * [CSS In-Depth, v2 [28-1-18]](https://frontendmasters.com/workshops/css-in-depth-v2/)
 * [CSS Grids and Flexbox in Responsive Web Design [26-1-18]](https://frontendmasters.com/workshops/responsive-web-design-flexbox-css-grid/)
+  * [Github](https://github.com/jen4web/fem-layout)
 * [Git In-depth [24-1-18]](https://frontendmasters.com/workshops/git-indepth/)
   * [Github](https://github.com/nnja/advanced-git)
 * [Full Stack for Front-Ends Part 2 - [20-1-18]](https://frontendmasters.com/workshops/full-stack-front-ends-part-2/)
