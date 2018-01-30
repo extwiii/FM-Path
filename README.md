@@ -5,6 +5,7 @@ Frontend master Path
   * [Slides](https://estelle.github.io/cssmastery/#slide1)
 * [CSS Grids and Flexbox in Responsive Web Design [26-1-18]](https://frontendmasters.com/workshops/responsive-web-design-flexbox-css-grid/)
   * [Github](https://github.com/jen4web/fem-layout)
+  * [Flexbox Froggy](http://flexboxfroggy.com/)
 * [Git In-depth [24-1-18]](https://frontendmasters.com/workshops/git-indepth/)
   * [Github](https://github.com/nnja/advanced-git)
 * [Full Stack for Front-Ends Part 2 - [20-1-18]](https://frontendmasters.com/workshops/full-stack-front-ends-part-2/)
