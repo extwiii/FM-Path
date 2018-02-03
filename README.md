@@ -2,6 +2,7 @@
 Frontend master Path
 
 * [GraphQL [31-1-18]](https://frontendmasters.com/workshops/graphql/)
+  * Github
 * [CSS In-Depth, v2 [28-1-18]](https://frontendmasters.com/workshops/css-in-depth-v2/)
   * [Slides](https://estelle.github.io/cssmastery/#slide1)
 * [CSS Grids and Flexbox in Responsive Web Design [26-1-18]](https://frontendmasters.com/courses/css-grids-flexbox/)
